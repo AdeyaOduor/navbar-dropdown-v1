@@ -4,7 +4,7 @@ import '../../App.css';
 export default function Home() {
   return (
     <>
-      <h1 className='home'>Login</h1>
+      <h1 className='home'>Welcome to my Page</h1>
     </>
   );
 }
