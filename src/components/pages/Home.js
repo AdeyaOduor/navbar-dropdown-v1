@@ -1,13 +1,5 @@
 import React from 'react';
 import '../../App.css';
-
-export default function Home() {
-  return (
-    <>
-      <h1 className='home'>Welcome to my Page</h1>
-    </>
-  );
-}
 import React, { useState } from "react";
 
 import Form from "react-bootstrap/Form";
