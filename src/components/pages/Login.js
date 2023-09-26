@@ -8,7 +8,7 @@ import Button from "react-bootstrap/Button";
 
 import "./Login.css";
 
-export default function Home() {
+export default function Login() {
 
   const [email, setEmail] = useState("");
 
