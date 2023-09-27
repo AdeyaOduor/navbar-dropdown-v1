@@ -3,7 +3,6 @@ import '../../App.css';
 
 export default function ContactUs() {
   return <h1 className='contact-us'>CONTACT</h1>;
-import React from 'react'
 const ContactForm = () => {
   const [formStatus, setFormStatus] = React.useState('Send')
   const onSubmit = (e) => {
